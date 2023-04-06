@@ -1,1 +1,1 @@
-Vinhvip:0.tcp.ap.ngrok.io:19140:0:0
+Vipsever:0.tcp.ap.ngrok.io:16096:0.tcp.ap.ngrok.io:18547
